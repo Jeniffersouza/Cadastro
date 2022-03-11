@@ -1,0 +1,63 @@
+*{
+  margin: 0;
+}
+body{
+  background-image: url(banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+main{
+  margin-top: 20rem;
+  margin-left: 8rem;
+  
+  
+}
+.text1{
+  color: white;
+  font-family:Montserrat;
+  font-size:  24px;
+  font-weight: 700;
+  text-align: left;
+  margin-bottom:2rem;
+  margin-right: 55rem;
+}
+.text2{
+  color: white;
+  font-family:Montserrat;
+  margin-right: 65rem;
+  font-size:18px;
+  margin-bottom:2rem;
+
+}
+strong{
+  color: #01FF1A;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin-left: 2rem;
+}
+input{
+  margin-top: 1rem;
+  padding:0.93rem ;
+  border-radius: 2rem;
+}
+input[type="email"]{
+  color: white;
+  font-family:Montserrat;
+  font-size: 22px;
+  font-weight: 400;
+}
+input[type="submit"]{
+  background-color: #01FF1A;
+  color: white;
+  font-family:Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+}
+input[type="submit"]:hover{
+  cursor: pointer;
+}

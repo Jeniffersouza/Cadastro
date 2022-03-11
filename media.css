@@ -1,0 +1,60 @@
+@media screen and (max-width: 760px){
+  *{
+    margin: 0;
+  }
+  body{
+    background-image: url(banner_mobile.jpg);
+    background-repeat: no-repeat;
+    background-position: center 0;
+    
+  }
+  main{
+    margin-top: 36.8rem;
+    margin-left: 1rem;
+  }
+  .text1{
+    color: white;
+    font-family:Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+  }
+  .text2{
+    color: white;
+    font-family:Montserrat;
+    margin-bottom: 0.5rem;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    margin-right: 1rem;
+
+  }
+  strong{
+    color: #01FF1A;
+  }
+  form{
+    
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: 6rem;
+  }
+  input{
+    margin-top: 0.70rem;
+    padding:0.93rem ;
+    border-radius: 2rem;
+  }
+  input[type="submit"]{
+    background-color: #01FF1A;
+    color: white;
+    font-family:Montserrat;
+    font-size: bold 18px;
+    font-weight: 700;
+  }
+  input[type="submit"]:hover{
+    cursor: pointer;
+  }
+}
+
