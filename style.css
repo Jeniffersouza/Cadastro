@@ -4,13 +4,13 @@
 body{
   background-image: url(banner.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center 0 ;
   background-size: cover;
   background-attachment: fixed;
 }
 main{
-  margin-top: 20rem;
-  margin-left: 8rem;
+  margin-top: 17rem;
+  margin-left:2rem;
   
   
 }
@@ -21,12 +21,12 @@ main{
   font-weight: 700;
   text-align: left;
   margin-bottom:2rem;
-  margin-right: 55rem;
+  margin-right: 35rem;
 }
 .text2{
   color: white;
   font-family:Montserrat;
-  margin-right: 65rem;
+  margin-right: 55rem;
   font-size:18px;
   margin-bottom:2rem;
 

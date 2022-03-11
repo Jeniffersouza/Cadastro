@@ -6,11 +6,16 @@
     background-image: url(banner_mobile.jpg);
     background-repeat: no-repeat;
     background-position: center 0;
+    background-attachment: fixed;
     
   }
   main{
-    margin-top: 36.8rem;
+    margin-top: 34rem;
     margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    
   }
   .text1{
     color: white;
@@ -19,7 +24,7 @@
     font-weight: 700;
     text-align: left;
     margin-bottom: 1rem;
-    margin-right: 1rem;
+    margin-right: 0;
   }
   .text2{
     color: white;
@@ -28,7 +33,7 @@
     font-size: 18px;
     font-weight: 400;
     text-align: left;
-    margin-right: 1rem;
+    margin-right: 0;
 
   }
   strong{
