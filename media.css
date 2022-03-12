@@ -13,7 +13,7 @@
   main{
     margin-top: 25rem;
     margin-left: 1rem;
-    margin-right: 1rem;
+    margin-right: 0rem;
     margin-bottom: 1rem;
     padding: 1rem;
     
@@ -45,8 +45,8 @@
     
     display: flex;
     flex-direction: column;
-    width: 50%;
-    margin-left:6rem;
+    width: 70%;
+    
   }
   input{
     margin-top: 0.5rem;
