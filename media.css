@@ -8,14 +8,15 @@
     background-position: center 0;
     background-attachment: fixed;
     
+    
   }
   main{
-    margin-top: 34rem;
+    margin-top: 25rem;
     margin-left: 1rem;
     margin-right: 1rem;
     margin-bottom: 1rem;
     padding: 1rem;
-    position: fixed;
+    
     
   }
   .text1{
@@ -56,7 +57,7 @@
     background-color: #01FF1A;
     color: white;
     font-family:Montserrat;
-    font-size: bold 18px;
+    font-size:  16px;
     font-weight: 700;
   }
   input[type="submit"]:hover{
