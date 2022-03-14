@@ -41,7 +41,7 @@ form{
   margin-left: 2rem;
 }
 input{
-  margin-top: 1rem;
+  margin-top: 2rem;
   padding:0.93rem ;
   border-radius: 2rem;
 }
@@ -52,6 +52,7 @@ input[type="email"]{
   font-weight: 400;
 }
 input[type="submit"]{
+  width: 70%;
   background-color: #01FF1A;
   color: white;
   font-family:Montserrat;

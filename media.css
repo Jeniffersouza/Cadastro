@@ -49,14 +49,14 @@
      
   }
   input{
-    margin-top: 0.5rem;
+    margin-top: 1rem;
     padding:0.5rem ;
     border-radius: 2rem;
     border-style: none;   
   }
   input[type="submit"]{
     background-color: #01FF1A;
-    color: rgb(0, 0, 0);
+    color: rgb(253, 251, 251);
     font-family:Montserrat;
     font-size:  16px;
     font-weight: 700;
