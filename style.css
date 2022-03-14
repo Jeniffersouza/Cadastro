@@ -46,7 +46,7 @@ input{
   border-radius: 2rem;
 }
 input[type="email"]{
-  color: white;
+  color: rgb(0, 0, 0);
   font-family:Montserrat;
   font-size: 22px;
   font-weight: 400;
