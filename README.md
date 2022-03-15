@@ -15,9 +15,12 @@ após o clique direcina para a página de obrigada!
 
 ![image](https://user-images.githubusercontent.com/98287941/158237338-ac9e1cd6-3def-48e4-b8ba-dd3a7501a3c9.png)
 
-(os códigos da página de Obrigada está localizada em: https://github.com/Jeniffersouza/Obrigado
+(os códigos da página de Obrigada está localizada em: https://github.com/Jeniffersouza/Obrigado)
 
 MOBILE:
+
+
+
 ![image](https://user-images.githubusercontent.com/98287941/158284776-7c50dc61-4267-4463-836a-651c215d06db.png)
 
 ![image](https://user-images.githubusercontent.com/98287941/158284864-7c4de497-93ca-4d3f-8aee-56786898bbbe.png)
